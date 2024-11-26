@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @dataricardom
+# - 👋 Hi, I’m Ricardo Marques
 - 👀 I’m interested in engineering and data analysis
 - 🌱 I’m currently learning data engineering
 - 📫 How to reach me dataricardom@gmail.com
