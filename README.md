@@ -2,7 +2,10 @@
 - 👀 I’m interested in engineering and data analysis
 - 🌱 I’m currently learning data engineering
 
-![Logo da empresa](KPUUDATA.png)
+
+<p align="center">
+  <img src="KPUUDATA.png" alt="logo" width="300"/>
+</p>
 
 
 <!---
