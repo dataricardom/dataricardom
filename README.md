@@ -11,7 +11,7 @@ Busco oportunidade como Engenheiro de Dados ou Analista de Dados, com foco em de
 
 **Habilidades**
 
-Python | SQL | DBT | Airflow | Docker | Databricks |Git | GiHub | Power BI |
+Python | SQL | DBT | Airflow | Docker | Databricks | Git | GiHub | Power BI 
 
 **Experiência**
 
