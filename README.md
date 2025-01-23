@@ -48,7 +48,9 @@ Extração de API do Zero – Projeto ETL completo com Python – Jornada de Dad
 
 Fundamentals of the Databricks Lakehouse Platform Accreditation – 2024
 
-Oracle certified Foundations Associate | Oracle Cloud Data Foundations Associate 
+Oracle Certified Foundations Associate 
+
+Oracle Cloud Data Management 2023 Foundations Associate 
 
 
 
