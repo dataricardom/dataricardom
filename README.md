@@ -1,7 +1,7 @@
 #  👋 Hi, I’m Ricardo Henrique Marques Pinto
 
 
-**Data Engineer | Data Analyst | Python | Big Data | SQL |**
+**Data Engineer | Data Analyst | Python | Big Data | SQL**
 
 Santana de Cataguases, Minas Gerais, Brasil | E-mail: dataricardom<!-- -->@gmail.com
 
