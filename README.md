@@ -3,7 +3,7 @@
 
 **Data Engineer | Data Analyst | Python | Big Data | SQL |**
 
-Santana de Cataguases, Minas Gerais, Brasil |E-mail: dataricardom<!-- -->@gmail.com
+Santana de Cataguases, Minas Gerais, Brasil | E-mail: dataricardom<!-- -->@gmail.com
 
 **Objetivo**
 
