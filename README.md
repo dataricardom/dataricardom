@@ -11,30 +11,30 @@ Busco oportunidade como Engenheiro de Dados ou Analista de Dados, com foco em de
 
 **Habilidades**
 
-• Linguagens: Python | SQL | R
-• Ferramentas de BI: Power BI | Tableau | Looker
-• Big Data & Processamento: Hadoop | Spark | Kafka | Databricks
-• Orquestração & ETL: Apache Airflow | DBT | Docker
-• Banco de Dados & Governança: SQL Server | Oracle | RMAN | ZDLRA
-• Cloud & Versionamento: Oracle Cloud | AWS | Google Cloud | Git | GitHub
-• Metodologias & Práticas: Agile (Scrum, Kanban) | Pipelines de Dados | Storytelling de Dados
+- Linguagens: Python | SQL | R
+- Ferramentas de BI: Power BI | Tableau | Looker
+- Big Data & Processamento: Hadoop | Spark | Kafka | Databricks
+- Orquestração & ETL: Apache Airflow | DBT | Docker
+- Banco de Dados & Governança: SQL Server | Oracle | RMAN | ZDLRA
+- Cloud & Versionamento: Oracle Cloud | AWS | Google Cloud | Git | GitHub
+- Metodologias & Práticas: Agile (Scrum, Kanban) | Pipelines de Dados | Storytelling de Dados
 
 **Experiência**
 
 **Energisa SA – Analista de Dados (DBA) – Estagiário
 Maio 2022 – Agosto 2023**
 
-Suporte no controle de rotinas de backup de bancos relacionais SQL Server e Oracle.
+- Suporte no controle de rotinas de backup de bancos relacionais SQL Server e Oracle.
 
-Criação de rotinas de backup, reprocessamento e descontinuação de rotinas de backup. 
+- Criação de rotinas de backup, reprocessamento e descontinuação de rotinas de backup. 
 
-Manter histórico de backups realizados durante todo tempo.
+- Manter histórico de backups realizados durante todo tempo.
 
-Ferramentas: RMAN e ZDLRA
+- Ferramentas: RMAN e ZDLRA
 
-Suporte a equipe se infraestrutura responsável pelo gerenciamento dos backups levados para a ferramenta Data Protector.
+- Suporte a equipe se infraestrutura responsável pelo gerenciamento dos backups levados para a ferramenta Data Protector.
 
-Envio de relatórios diários, semanais e mensais dos status de backup realizados.
+- Envio de relatórios diários, semanais e mensais dos status de backup realizados.
 
 **Educação**
 
@@ -50,25 +50,25 @@ Dados.
 
 **Cursos e Certificações**
 
-Astronomer Certification for Apache Airflow Fundamentals – 2024
+- Astronomer Certification for Apache Airflow Fundamentals – 2024
 
-Extração de API do Zero – Projeto ETL completo com Python – Jornada de Dados
+- Extração de API do Zero – Projeto ETL completo com Python – Jornada de Dados
 
-Fundamentals of the Databricks Lakehouse Platform Accreditation – 2024
+- Fundamentals of the Databricks Lakehouse Platform Accreditation – 2024
 
-Oracle Certified Foundations Associate 
+- Oracle Certified Foundations Associate 
 
-Oracle Cloud Data Management 2023 Foundations Associate 
+- Oracle Cloud Data Management 2023 Foundations Associate 
 
 
 **Diferenciais & Competências**
-• Desenvolvimento de dashboards interativos e storytelling de dados.
-• Definição e implementação de métricas e KPIs para monitoramento de
+- Desenvolvimento de dashboards interativos e storytelling de dados.
+- Definição e implementação de métricas e KPIs para monitoramento de
 negócios.
-• Criação de pipelines de dados otimizados, garantindo qualidade e eficiência.
-• Colaboração com equipes multifuncionais para soluções baseadas em
+- Criação de pipelines de dados otimizados, garantindo qualidade e eficiência.
+- Colaboração com equipes multifuncionais para soluções baseadas em
 dados.
-• Proatividade e capacidade de resolver problemas complexos.
+- Proatividade e capacidade de resolver problemas complexos.
 
 
 
