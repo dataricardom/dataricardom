@@ -11,7 +11,7 @@ E-mail: dataricardom@gmail.com
 
 Objetivo Profissional:
 
-Busco uma oportunidade como Engenheiro de Dados ou Analista de Dados, com foco no desenvolvimento de solucoes
+Busco uma oportunidade como Engenheiro de Dados, com foco no desenvolvimento de solucoes
 inovadoras e estrategicas orientadas a dados. Tenho interesse em atuar em ambientes que incentivem a inovacao, a
 analise de dados voltada para negocios e o desenvolvimento profissional continuo.
 
