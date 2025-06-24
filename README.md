@@ -5,7 +5,7 @@ Data Engineer | Data Analyst | BI Specialist
 
 Santana de Cataguases, MG, Brasil
 
-Whatsapp: +55 (32) 99918-0208
+
 
 E-mail: dataricardom@gmail.com
 
