@@ -1,7 +1,7 @@
 #  👋 Hi, I’m Ricardo Henrique Marques Pinto
 
 
-Data Engineer | Data Analyst | BI Specialist
+Engenheiro de Dados
 
 Santana de Cataguases, MG, Brasil
 
@@ -11,9 +11,12 @@ E-mail: dataricardom@gmail.com
 
 Objetivo Profissional:
 
-Busco uma oportunidade como Engenheiro de Dados, com foco no desenvolvimento de solucoes
-inovadoras e estrategicas orientadas a dados. Tenho interesse em atuar em ambientes que incentivem a inovacao, a
-analise de dados voltada para negocios e o desenvolvimento profissional continuo.
+Sou profissional em Engenharia de Dados, com experiência em ETL, automação de rotinas de
+backup e processamento de dados em bancos relacionais e em nuvem. Atuo com Python, SQL,
+Apache Spark, Airflow e Databricks, aplicando boas práticas de governança e qualidade de
+dados. Destaco-me pelo desenvolvimento de pipelines de dados eficientes, garantindo
+integridade e escalabilidade. Busco uma oportunidade como Engenheiro de Dados, em
+ambientes que valorizem inovação e crescimento contínuo.
 
 Habilidades Técnicas:
 
@@ -36,13 +39,15 @@ Experiência:
 
 Energisa SA Analista de Dados (Estagio)
 05/2022 - 08/2023
-- Automatizacao de rotinas de backup em bancos SQL Server e Oracle
-- Desenvolvimento de scripts de reprocessamento e descontinuacao de processos
-- Garantia da qualidade e governanca de dados por meio da gestao de historicos
-- Suporte a equipe de infraestrutura na ferramenta Data Protector
-- Geracao de relatorios diarios, semanais e mensais sobre status dos backups
-- Colaboracao com equipes multidisciplinares para garantir a integridade dos dados
-Currículo - Ricardo Henrique Marques Pinto
+Gestão e Governança de Dados
+- Garantia da qualidade e integridade dos dados, gestão de históricos e geração de
+relatórios periódicos.
+Backup e Suporte a Banco de Dados
+- Automatização de rotinas de backup (SQL Server e Oracle), suporte à infraestrutura e
+administração de usuários e privilégios.
+Desenvolvimento e Transformação de Dados
+- Criação de scripts de reprocessamento, processos ETL, consultas SQL e CTEs,
+garantindo consistência e integridade.
 
 Educacão:
 
