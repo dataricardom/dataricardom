@@ -37,8 +37,11 @@ Competências:
 
 Experiência:
 
-Energisa SA Analista de Dados (Estagio)
+Energisa SA 
+
+Analista de Dados (Estágio)
 05/2022 - 08/2023
+
 Gestão e Governança de Dados
 - Garantia da qualidade e integridade dos dados, gestão de históricos e geração de
 relatórios periódicos.
