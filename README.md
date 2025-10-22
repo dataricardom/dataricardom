@@ -9,14 +9,13 @@ Santana de Cataguases, MG, Brasil
 
 E-mail: dataricardom@gmail.com
 
-Objetivo Profissional:
+Profissional com experiencia na área de dados, atuando com modelagem de dados, suporte ao controle de rotinas de backup, criação de relatórios detalhados de gerenciamento de rotinas. Atualmente desenvolvo projetos com foco em Engenharia de Dados, utilizando das melhores práticas para estruturar pipelines de dados eficientes garantindo performance e governança. 
 
-Sou profissional em Engenharia de Dados, com experiência em ETL, automação de rotinas de
-backup e processamento de dados em bancos relacionais e em nuvem. Atuo com Python, SQL,
-Apache Spark, Airflow e Databricks, aplicando boas práticas de governança e qualidade de
-dados. Destaco-me pelo desenvolvimento de pipelines de dados eficientes, garantindo
-integridade e escalabilidade. Busco uma oportunidade como Engenheiro de Dados, em
-ambientes que valorizem inovação e crescimento contínuo.
+Responsável pelo suporte ao controle de rotinas de backup de bancos de Dados Oracle e SQL, reduzindo o tempo ocioso entre cada execução e necessidade de reprocessamento em 30% com base nas informações obtidas diariamente junto a equipe de dados. 
+
+Implementação de pipeline de dados com Apache Airflow, dbt Core e Astronomer, integrando orquestração e transformação de dados em ambiente Dockerizado. O projeto estrutura DAGs para execução de modelos dbt, com foco em automação, versionamento e governança de pipelines de dados. 
+
+Desenvolvo projetos técnicos com foco em engenharia de dados, utilizando ferramentas como, SQL, Python, Databricks, Dbt e Airflow, aplicando conceitos de orquestração, ingestão, tratamento e organização de dados em estruturas baseadas em arquitetura medalhão (Bronze, Silver, Gold). Criação pipelines de dados eficientes para ingestão de dados ETL e ELT utilizando Python e bibliotecas como Pandas, SQL Alchemy e validação dos dados com Pandera e Pydantic. 
 
 Habilidades Técnicas:
 
@@ -53,6 +52,7 @@ Desenvolvimento e Transformação de Dados
 garantindo consistência e integridade.
 
 Educacão:
+Faculdade Anhanguera Educacional - Pós-Graduação em Engenharia de Dados e Inteligência Artificial - 2025 -
 
 Faculdade Infnet Bacharelado em Gerenciamento de Banco de Dados-
 04/2020 - 07/2023
