@@ -1,80 +1,177 @@
-#  👋 Hi, I’m Ricardo Henrique Marques Pinto
+# Ricardo Henrique Marques Pinto  
+**Engenheiro de Dados**
 
+📍 Santana de Cataguases, Minas Gerais, Brasil  
+📞 Telefone: (32) 99918-0208  
+📧 E-mail: dataricardom@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/dataricardom  
 
-Engenheiro de Dados
+---
 
-Santana de Cataguases, MG, Brasil
+## 📌 Resumo Profissional
 
+Profissional com experiência na área de dados, atuando com **modelagem de dados**, **suporte e controle de rotinas de backup** e **criação de relatórios gerenciais**.  
+Atualmente desenvolvo projetos com foco em **Engenharia de Dados**, aplicando boas práticas para estruturar **pipelines eficientes**, garantindo **performance, governança e automação**.
 
+Experiência em **bancos de dados Oracle e SQL Server**, com atuação direta na otimização de rotinas de backup, reduzindo em **30% o tempo ocioso e a necessidade de reprocessamentos**, a partir da análise diária de dados junto à equipe.
 
-E-mail: dataricardom@gmail.com
+---
 
-Profissional com experiencia na área de dados, atuando com modelagem de dados, suporte ao controle de rotinas de backup, criação de relatórios detalhados de gerenciamento de rotinas. Atualmente desenvolvo projetos com foco em Engenharia de Dados, utilizando das melhores práticas para estruturar pipelines de dados eficientes garantindo performance e governança. 
+## 🚀 Experiência Profissional
 
-Responsável pelo suporte ao controle de rotinas de backup de bancos de Dados Oracle e SQL, reduzindo o tempo ocioso entre cada execução e necessidade de reprocessamento em 30% com base nas informações obtidas diariamente junto a equipe de dados. 
+### **Energisa S.A.**  
+**Estagiário em Dados**  
+📅 Maio 2022 – Agosto 2023  
 
-Implementação de pipeline de dados com Apache Airflow, dbt Core e Astronomer, integrando orquestração e transformação de dados em ambiente Dockerizado. O projeto estrutura DAGs para execução de modelos dbt, com foco em automação, versionamento e governança de pipelines de dados. 
+#### Gestão e Governança de Dados
+- Garantia da qualidade e integridade dos dados  
+- Gestão de históricos e geração de relatórios periódicos  
 
-Desenvolvo projetos técnicos com foco em engenharia de dados, utilizando ferramentas como, SQL, Python, Databricks, Dbt e Airflow, aplicando conceitos de orquestração, ingestão, tratamento e organização de dados em estruturas baseadas em arquitetura medalhão (Bronze, Silver, Gold). Criação pipelines de dados eficientes para ingestão de dados ETL e ELT utilizando Python e bibliotecas como Pandas, SQL Alchemy e validação dos dados com Pandera e Pydantic. 
+#### Backup e Suporte a Banco de Dados
+- Automatização de rotinas de backup (Oracle e SQL Server)  
+- Suporte à infraestrutura de banco de dados  
+- Administração de usuários e privilégios  
 
-Habilidades Técnicas:
+#### Desenvolvimento e Transformação de Dados
+- Criação de scripts de reprocessamento  
+- Desenvolvimento de processos ETL  
+- Escrita de consultas SQL avançadas e uso de CTEs  
+- Garantia de consistência e integridade dos dados  
 
-- Linguagens: Python, SQL, PL/SQL, R
-- Ferramentas de BI: Power BI, Tableau, Looker
-- Big Data & Processamento: Hadoop, Spark, Databricks
-- Orquestracao & ETL: Apache Airflow, DBT, Docker
-- Banco de Dados: SQL Server, Oracle, PostgreSQL, MongoDB
-- Cloud & Versionamento: Oracle Cloud, AWS, Google Cloud, Git, GitHub
-- Praticas de Dados: Storytelling de Dados, KPIs, Pipelines de Dados
+---
 
-Competências:
-- Trabalho em equipe, capacidade analitica, organizacao e proatividade
-- Criacao de dashboards interativos com storytelling
-- Desenvolvimento de pipelines de dados com foco em eficiencia e qualidade
-- Definicao de metricas e KPIs para suporte a decisao
-- Colaboracao com times multifuncionais
+## 🧠 Projetos em Engenharia de Dados
 
-Experiência:
+- Implementação de **pipelines de dados** utilizando **Apache Airflow, dbt Core e Astronomer**  
+- Orquestração e transformação de dados em ambiente **Dockerizado**  
+- Estruturação de **DAGs para execução de modelos dbt**, com foco em:
+  - Automação
+  - Versionamento
+  - Governança de dados  
 
-Energisa SA 
+- Desenvolvimento de pipelines ETL e ELT utilizando:
+  - **Python**
+  - **Pandas**
+  - **SQLAlchemy**
+  - Validação de dados com **Pandera** e **Pydantic**
 
-Analista de Dados (Estágio)
-05/2022 - 08/2023
+- Organização de dados seguindo a **Arquitetura Medalhão**:
+  - Bronze
+  - Silver
+  - Gold  
 
-Gestão e Governança de Dados
-- Garantia da qualidade e integridade dos dados, gestão de históricos e geração de
-relatórios periódicos.
-Backup e Suporte a Banco de Dados
-- Automatização de rotinas de backup (SQL Server e Oracle), suporte à infraestrutura e
-administração de usuários e privilégios.
-Desenvolvimento e Transformação de Dados
-- Criação de scripts de reprocessamento, processos ETL, consultas SQL e CTEs,
-garantindo consistência e integridade.
+---
 
-Educacão:
-Faculdade Anhanguera Educacional - Pós-Graduação em Engenharia de Dados e Inteligência Artificial - 2025 -
+## 🛠️ Competências Técnicas
 
-Faculdade Infnet Bacharelado em Gerenciamento de Banco de Dados-
-04/2020 - 07/2023
+### Linguagens
+- Python
+- SQL
+- R
 
-Enfase em Big Data, Engenharia e Analise de Dados. Projetos praticos com ciclos de 6 meses. Preparado para atuar
-como DBA, Engenheiro ou Analista de Dados.
+### Bibliotecas & Frameworks
+- Pandas
+- Polars
+- SQLAlchemy
+- dbt
+- FastAPI
 
-Certificacões:
-- Astronomer Certification for Apache Airflow Fundamentals (2024)
-- Databricks Lakehouse Platform Accreditation (2024)
-- Oracle Cloud Data Foundations Associate
-- Oracle Certified Foundations Associate
-- Projeto ETL com Extracao de API em Python (Jornada de Dados)
+### BI & Visualização
+- Power BI
+- Tableau
+- Looker
 
+### Big Data & Processamento
+- Hadoop
+- Apache Spark
+- Databricks
 
+### Orquestração & ETL
+- Apache Airflow
+- dbt
+- Docker
 
-<p align="center">
-  <img src="KPUUDATA.png" alt="logo" width="300"/>
-</p>
+### Bancos de Dados
+- Oracle
+- SQL Server
+- PostgreSQL
+- MongoDB
+- MySQL
 
+### Cloud & Versionamento
+- Oracle Cloud
+- AWS
+- Google Cloud
+- Git
+- GitHub
 
-<!---
-dataricardom/dataricardom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Práticas de Dados
+- Pipelines de Dados
+- KPIs
+- Storytelling de Dados
+
+### Sistemas Operacionais
+- Linux
+- Windows
+
+---
+
+## 🎓 Educação
+
+### **Pós-graduação Lato Sensu – Engenharia de Dados e Inteligência Artificial**  
+Faculdade Anhanguera Educacional  
+📅 2025 – Em andamento  
+
+### **Graduação – Banco de Dados**  
+Faculdade Infnet  
+📅 2020 – 2023  
+
+- Ênfase em Big Data, Engenharia e Análise de Dados  
+- Projetos práticos com ciclos de 6 meses  
+- Formação voltada para atuação como **DBA, Engenheiro ou Analista de Dados**  
+
+---
+
+## 🏅 Certificações
+
+### **Astronomer Certification for Apache Airflow Fundamentals (2024)**
+- Criação e gerenciamento de DAGs  
+- Automação de workflows de dados  
+- Boas práticas de monitoramento, operadores e conexões  
+
+### **Databricks Lakehouse Platform Accreditation (2024)**
+- Fundamentos da arquitetura Lakehouse  
+- Processamento de dados em escala com Apache Spark  
+
+### **Oracle Cloud Data Foundations Associate**
+- Serviços de dados na Oracle Cloud  
+- Boas práticas em segurança, governança e uso de recursos  
+
+### **Oracle Certified Foundations Associate**
+- Fundamentos de Cloud Computing  
+- Arquitetura e administração básica na OCI  
+
+---
+
+## 📂 Projetos Acadêmicos e Técnicos
+
+### **Projeto ETL com Extração de API em Python (Jornada de Dados)**
+- Extração de dados via API  
+- Transformação, limpeza e carga em banco relacional  
+- Garantia de qualidade e integridade dos dados  
+
+---
+
+## 🌎 Idiomas
+
+- **Português**: Nativo  
+
+---
+
+## 🗂️ Experiência Adicional
+
+### **Processos Administrativos – SENAI MG**  
+📅 2014  
+
+- Apoio em rotinas administrativas  
+- Organização, atendimento e gestão de documentos  
