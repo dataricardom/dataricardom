@@ -38,15 +38,6 @@ Experiência prática com **Oracle, SQL Server, Python, Airflow, dbt e Databrick
 
 ---
 
-## 📂 Projetos em Destaque
-
-- Pipeline de dados com **Airflow + dbt + Astronomer**, executado em ambiente Docker  
-- ETL com extração de dados via API em Python  
-- Validação de dados com **Pandera e Pydantic**  
-- Processos de ingestão e transformação seguindo arquitetura medalhão  
-
----
-
 ## 🎓 Formação
 
 - **Pós-graduação em Engenharia de Dados e Inteligência Artificial** – Anhanguera (em andamento)  
