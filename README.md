@@ -1,177 +1,62 @@
 # Ricardo Henrique Marques Pinto  
-**Engenheiro de Dados**
+## Engenheiro de Dados
 
-📍 Santana de Cataguases, Minas Gerais, Brasil  
-📞 Telefone: (32) 99918-0208  
-📧 E-mail: dataricardom@gmail.com  
+📍 Santana de Cataguases – MG, Brasil  
+📧 dataricardom@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/dataricardom  
 
 ---
 
-## 📌 Resumo Profissional
+## 🚀 Sobre mim
 
-Profissional com experiência na área de dados, atuando com **modelagem de dados**, **suporte e controle de rotinas de backup** e **criação de relatórios gerenciais**.  
-Atualmente desenvolvo projetos com foco em **Engenharia de Dados**, aplicando boas práticas para estruturar **pipelines eficientes**, garantindo **performance, governança e automação**.
+Engenheiro de Dados com experiência em **modelagem de dados, automação de rotinas de backup e construção de pipelines de dados**.  
+Atuo no desenvolvimento de soluções escaláveis e governadas, utilizando **boas práticas de engenharia de dados**, com foco em **performance, automação e confiabilidade**.
 
-Experiência em **bancos de dados Oracle e SQL Server**, com atuação direta na otimização de rotinas de backup, reduzindo em **30% o tempo ocioso e a necessidade de reprocessamentos**, a partir da análise diária de dados junto à equipe.
-
----
-
-## 🚀 Experiência Profissional
-
-### **Energisa S.A.**  
-**Estagiário em Dados**  
-📅 Maio 2022 – Agosto 2023  
-
-#### Gestão e Governança de Dados
-- Garantia da qualidade e integridade dos dados  
-- Gestão de históricos e geração de relatórios periódicos  
-
-#### Backup e Suporte a Banco de Dados
-- Automatização de rotinas de backup (Oracle e SQL Server)  
-- Suporte à infraestrutura de banco de dados  
-- Administração de usuários e privilégios  
-
-#### Desenvolvimento e Transformação de Dados
-- Criação de scripts de reprocessamento  
-- Desenvolvimento de processos ETL  
-- Escrita de consultas SQL avançadas e uso de CTEs  
-- Garantia de consistência e integridade dos dados  
+Experiência prática com **Oracle, SQL Server, Python, Airflow, dbt e Databricks**, além de projetos estruturados em **arquitetura medalhão (Bronze, Silver e Gold)**.
 
 ---
 
-## 🧠 Projetos em Engenharia de Dados
+## 🧠 Principais Competências
 
-- Implementação de **pipelines de dados** utilizando **Apache Airflow, dbt Core e Astronomer**  
-- Orquestração e transformação de dados em ambiente **Dockerizado**  
-- Estruturação de **DAGs para execução de modelos dbt**, com foco em:
-  - Automação
-  - Versionamento
-  - Governança de dados  
-
-- Desenvolvimento de pipelines ETL e ELT utilizando:
-  - **Python**
-  - **Pandas**
-  - **SQLAlchemy**
-  - Validação de dados com **Pandera** e **Pydantic**
-
-- Organização de dados seguindo a **Arquitetura Medalhão**:
-  - Bronze
-  - Silver
-  - Gold  
+- Engenharia de Dados & Pipelines ETL/ELT  
+- Orquestração com Apache Airflow  
+- Transformação de dados com dbt  
+- Python para ingestão, tratamento e validação de dados  
+- Arquitetura Medalhão e Governança de Dados  
+- Versionamento com Git e GitHub  
 
 ---
 
-## 🛠️ Competências Técnicas
+## 🛠️ Tecnologias
 
-### Linguagens
-- Python
-- SQL
-- R
-
-### Bibliotecas & Frameworks
-- Pandas
-- Polars
-- SQLAlchemy
-- dbt
-- FastAPI
-
-### BI & Visualização
-- Power BI
-- Tableau
-- Looker
-
-### Big Data & Processamento
-- Hadoop
-- Apache Spark
-- Databricks
-
-### Orquestração & ETL
-- Apache Airflow
-- dbt
-- Docker
-
-### Bancos de Dados
-- Oracle
-- SQL Server
-- PostgreSQL
-- MongoDB
-- MySQL
-
-### Cloud & Versionamento
-- Oracle Cloud
-- AWS
-- Google Cloud
-- Git
-- GitHub
-
-### Práticas de Dados
-- Pipelines de Dados
-- KPIs
-- Storytelling de Dados
-
-### Sistemas Operacionais
-- Linux
-- Windows
+**Linguagens:** Python, SQL, R  
+**Frameworks & Libs:** Pandas, Polars, SQLAlchemy, dbt, FastAPI  
+**Big Data:** Apache Spark, Databricks, Hadoop  
+**Bancos:** Oracle, SQL Server, PostgreSQL, MySQL, MongoDB  
+**Cloud:** Oracle Cloud, AWS, Google Cloud  
+**Orquestração:** Apache Airflow, Docker  
 
 ---
 
-## 🎓 Educação
+## 📂 Projetos em Destaque
 
-### **Pós-graduação Lato Sensu – Engenharia de Dados e Inteligência Artificial**  
-Faculdade Anhanguera Educacional  
-📅 2025 – Em andamento  
+- Pipeline de dados com **Airflow + dbt + Astronomer**, executado em ambiente Docker  
+- ETL com extração de dados via API em Python  
+- Validação de dados com **Pandera e Pydantic**  
+- Processos de ingestão e transformação seguindo arquitetura medalhão  
 
-### **Graduação – Banco de Dados**  
-Faculdade Infnet  
-📅 2020 – 2023  
+---
 
-- Ênfase em Big Data, Engenharia e Análise de Dados  
-- Projetos práticos com ciclos de 6 meses  
-- Formação voltada para atuação como **DBA, Engenheiro ou Analista de Dados**  
+## 🎓 Formação
+
+- **Pós-graduação em Engenharia de Dados e Inteligência Artificial** – Anhanguera (em andamento)  
+- **Graduação em Banco de Dados** – Faculdade Infnet  
 
 ---
 
 ## 🏅 Certificações
 
-### **Astronomer Certification for Apache Airflow Fundamentals (2024)**
-- Criação e gerenciamento de DAGs  
-- Automação de workflows de dados  
-- Boas práticas de monitoramento, operadores e conexões  
-
-### **Databricks Lakehouse Platform Accreditation (2024)**
-- Fundamentos da arquitetura Lakehouse  
-- Processamento de dados em escala com Apache Spark  
-
-### **Oracle Cloud Data Foundations Associate**
-- Serviços de dados na Oracle Cloud  
-- Boas práticas em segurança, governança e uso de recursos  
-
-### **Oracle Certified Foundations Associate**
-- Fundamentos de Cloud Computing  
-- Arquitetura e administração básica na OCI  
-
----
-
-## 📂 Projetos Acadêmicos e Técnicos
-
-### **Projeto ETL com Extração de API em Python (Jornada de Dados)**
-- Extração de dados via API  
-- Transformação, limpeza e carga em banco relacional  
-- Garantia de qualidade e integridade dos dados  
-
----
-
-## 🌎 Idiomas
-
-- **Português**: Nativo  
-
----
-
-## 🗂️ Experiência Adicional
-
-### **Processos Administrativos – SENAI MG**  
-📅 2014  
-
-- Apoio em rotinas administrativas  
-- Organização, atendimento e gestão de documentos  
+- Astronomer Certification for Apache Airflow Fundamentals (2024)  
+- Databricks Lakehouse Platform Accreditation (2024)  
+- Oracle Cloud Data Foundations Associate  
+- Oracle Certified Foundations Associate  
